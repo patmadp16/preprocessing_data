@@ -1,2 +1,3 @@
 # preprocessing_data
-tahapan-tahapan yang biasa dilakukan dalam preprocessing data
+Tahapan-tahapan yang biasanya dilakukan dalam preprocessing data
+Penggunaan TextBlob dan Vader
